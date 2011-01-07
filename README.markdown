@@ -32,6 +32,8 @@ OmniAuth currently supports the following external providers:
   * GoodReads (credit: [cristoffer](http://github.com/christoffer))
 	* Douban (credit: [rainux](http://github.com/rainux))
 	* Sina Microblogging (credit: [he9qi](http://github.com/he9qi))
+  * Netflix (credit: [caged](http://github.com/caged))
+
 * OpenID
 * Google Apps (via OpenID)
 * CAS (Central Authentication Service) (credit: [jamesarosen](http://github.com/jamesarosen))
