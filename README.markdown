@@ -29,6 +29,7 @@ OmniAuth currently supports the following external providers:
   * Meetup (credit [coderoshi](http://github.com/coderoshi))
   * SoundCloud (credit: [leemartin](http://github.com/leemartin))
   * SmugMug (credit: [pchilton](http://github.com/pchilton))
+
   * GoodReads (credit: [cristoffer](http://github.com/christoffer))
 	* Douban (credit: [rainux](http://github.com/rainux))
 	* Sina Microblogging (credit: [he9qi](http://github.com/he9qi))
