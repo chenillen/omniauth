@@ -4,6 +4,7 @@ module OmniAuth
   module Strategies
     autoload :OAuth,              'omniauth/strategies/oauth'
     autoload :OAuth2,             'omniauth/strategies/oauth2'
+    autoload :XAuth,              'omniauth/strategies/xauth'
 
     autoload :Twitter,            'omniauth/strategies/twitter'
     autoload :LinkedIn,           'omniauth/strategies/linked_in'
@@ -30,5 +31,14 @@ module OmniAuth
     autoload :Bitly,              'omniauth/strategies/bitly'
     autoload :Vimeo,              'omniauth/strategies/vimeo'
     autoload :YouTube,            'omniauth/strategies/you_tube'
+    autoload :Hyves,              'omniauth/strategies/hyves'
+    autoload :Miso,               'omniauth/strategies/miso'
+    autoload :Dailymile,          'omniauth/strategies/dailymile'
+    autoload :Instagram,          'omniauth/strategies/instagram'
+    autoload :Mixi,               'omniauth/strategies/mixi'
+    autoload :Evernote,           'omniauth/strategies/evernote'
+    autoload :Doit,               'omniauth/strategies/doit'
+    autoload :Instapaper,         'omniauth/strategies/instapaper'
+    autoload :TradeMe,            'omniauth/strategies/trade_me'
   end
 end

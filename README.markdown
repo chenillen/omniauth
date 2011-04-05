@@ -15,37 +15,50 @@ To install OmniAuth, simply install the gem:
 
 OmniAuth currently supports the following external providers:
 
-* via OAuth
-  * Facebook
-  * Twitter
+* via OAuth (OAuth 1.0, OAuth 2, and xAuth)
   * 37signals ID
-  * Foursquare
-  * LinkedIn
-  * GitHub
-  * Identi.ca (credit: [dcu](https://github.com/dcu))
-  * Gowalla (credit: [kvnsmth](https://github.com/kvnsmth))
-  * Dopplr (credit: [flextrip](https://github.com/flextrip))
-  * TripIt (credit: [flextrip](https://github.com/flextrip))
-  * Meetup (credit [coderoshi](https://github.com/coderoshi))
-  * SoundCloud (credit: [leemartin](https://github.com/leemartin))
-  * SmugMug (credit: [pchilton](https://github.com/pchilton))
-  * GoodReads (credit: [cristoffer](https://github.com/christoffer))
-  * Netflix (credit: [caged](https://github.com/caged))
   * Bit.ly (credit: [philnash](https://github.com/philnash))
+  * Dopplr (credit: [flextrip](https://github.com/flextrip))
+  * Facebook
+  * Foursquare
+  * GitHub
+  * GoodReads (credit: [cristoffer](https://github.com/christoffer))
+  * Gowalla (credit: [kvnsmth](https://github.com/kvnsmth))
+  * Hyves (credit: [mrdg](https://github.com/mrdg))
+  * Identi.ca (credit: [dcu](https://github.com/dcu))
+  * LinkedIn
+  * Meetup (credit [coderoshi](https://github.com/coderoshi))
+  * Netflix (credit: [caged](https://github.com/caged))
+  * SmugMug (credit: [pchilton](https://github.com/pchilton))
+  * SoundCloud (credit: [leemartin](https://github.com/leemartin))
+  * TradeMe (credit: [pchilton](https://github.com/pchilton))
+  * TripIt (credit: [flextrip](https://github.com/flextrip))
+  * Twitter
   * Vimeo (credit: [jamiew](https://github.com/jamiew))
   * YouTube (credit: [jamiew](https://github.com/jamiew))
+
 	* Douban (credit: [rainux](http://github.com/rainux))
 	* Sina Microblogging (credit: [he9qi](http://github.com/he9qi))
   * Netflix (credit: [caged](http://github.com/caged))
 
-* Flickr (credit: [pchilton](https://github.com/pchilton))
+  * Miso (credit: [rickenharp](https://github.com/rickenharp))
+  * DailyMile (credit: [cdmwebs](https://github.com/cdmwebs))
+  * Instagram (credit: [kiyoshi](https://github.com/kiyoshi))
+  * Mixi (credit: [kiyoshi](https://github.com/kiyoshi))
+  * Evernote (credit: [szimek](https://github.com/szimek))
+  * Doit.im (credit: [chouti](https://github.com/chouti))
+  * Instapaper (credit: [micpringle](https://github.com/micpringle))
+
 * OpenID
 * Google Apps (via OpenID)
 * CAS (Central Authentication Service) (credit: [jamesarosen](https://github.com/jamesarosen))
 * LDAP (credit: [pyu10055](https://github.com/pyu10055))
+
 * Renren (Renren Connect of renren.com) (credit: [taweili](http://github.com/taweili), [rainux](http://github.com/rainux))
+
 * via OA-More
-  * Flickr (credit: [pchilton](http://github.com/pchilton))
+	* Flickr (credit: [pchilton](https://github.com/pchilton))
+
 
 ## Usage
 
