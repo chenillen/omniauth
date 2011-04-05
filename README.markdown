@@ -22,6 +22,7 @@ OmniAuth currently supports the following external providers:
   * Facebook
   * Foursquare
   * GitHub
+
   * GoodReads (credit: [cristoffer](https://github.com/christoffer))
   * Gowalla (credit: [kvnsmth](https://github.com/kvnsmth))
   * Hyves (credit: [mrdg](https://github.com/mrdg))
@@ -39,6 +40,11 @@ OmniAuth currently supports the following external providers:
 
 	* Douban (credit: [rainux](http://github.com/rainux))
 	* Sina Microblogging (credit: [he9qi](http://github.com/he9qi))
+	* Douban (credit: [rainux](http://github.com/rainux))
+  * Tsina (credit: [he9qi](http://github.com/he9qi))
+  * T163 (credit: [he9qi](http://github.com/he9qi))
+  * Tsohu (credit: [he9qi](http://github.com/he9qi))
+  * Tqq (credit: [he9qi](http://github.com/he9qi))
   * Netflix (credit: [caged](http://github.com/caged))
 
   * Miso (credit: [rickenharp](https://github.com/rickenharp))
@@ -48,6 +54,14 @@ OmniAuth currently supports the following external providers:
   * Evernote (credit: [szimek](https://github.com/szimek))
   * Doit.im (credit: [chouti](https://github.com/chouti))
   * Instapaper (credit: [micpringle](https://github.com/micpringle))
+
+  * Identi.ca (credit: [dcu](http://github.com/dcu))
+  * Gowalla (credit: [kvnsmth](http://github.com/kvnsmth))
+  * Dopplr (credit: [flextrip](http://github.com/flextrip))
+  * TripIt (credit: [flextrip](http://github.com/flextrip))
+  * Meetup (credit [coderoshi](http://github.com/coderoshi))
+  * SoundCloud (credit: [leemartin](http://github.com/leemartin))
+  * SmugMug (credit: [pchilton](http://github.com/pchilton))
 
 * OpenID
 * Google Apps (via OpenID)

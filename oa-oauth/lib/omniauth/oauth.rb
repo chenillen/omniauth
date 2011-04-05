@@ -24,6 +24,10 @@ module OmniAuth
 
     autoload :Douban,             'omniauth/strategies/douban'
     autoload :Tsina,              'omniauth/strategies/tsina'
+    autoload :T163,               'omniauth/strategies/t163'
+    autoload :Tsohu,              'omniauth/strategies/tsohu'
+    autoload :Tqq,                'omniauth/strategies/tqq'
+
     autoload :Yahoo,              'omniauth/strategies/yahoo'
     autoload :TypePad,            'omniauth/strategies/type_pad'
     autoload :Google,             'omniauth/strategies/google'
@@ -40,5 +44,6 @@ module OmniAuth
     autoload :Doit,               'omniauth/strategies/doit'
     autoload :Instapaper,         'omniauth/strategies/instapaper'
     autoload :TradeMe,            'omniauth/strategies/trade_me'
+
   end
 end

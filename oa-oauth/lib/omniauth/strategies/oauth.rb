@@ -60,7 +60,6 @@ module OmniAuth
       rescue ::Net::HTTPFatalError => e
         fail!(:service_unavailable, e)
       rescue ::OAuth::Unauthorized => e
-        # raise e.inspect
         fail!(:invalid_credentials, e)
       rescue ::MultiJson::DecodeError => e
         fail!(:invalid_response, e)
